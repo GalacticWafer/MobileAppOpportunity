@@ -1,7 +1,9 @@
 # MobileAppOpportunity
 
-The following is a transcript of the MobileAppOpportunity.mov file viewable by MSU Denver students at:
+The MobileAppOpportunity.mov file is viewable by MSU Denver students at:
 https://discord.com/channels/480073060561453078/821072160990691378/1333835662083756133
+
+The following is a transcript of the available positions for a contribution to the Griddle touch screen keyboard maobile application, by Malcolm Johnson
 
 - Engineer1: CI-CD pipeline & iOS fork.
   - One engineer will begin by setting up the CI-CD pipeline for the project as it stands currently. Then, start researching if we can use/leverage Flutter, Kotlin Multiplatform, or other such techniques to build targeted code for Android and iOS at the same time, given the limitation that we are designing a keyboard. Keyboard applications are not the same as most apps due to their ability to control and capture input. It is possible that we have unusual limitations, and any limitations should be explicitly listed in the report. Engineer1 must also include an analysis of which portions of the code, if any, could be used with the solution they consider to be the most plausible for saving on overall effort. The report is expected to be completed within the first 6 weeks but may take longer and require prototyping on the side. After Engineer1 presents their findings, they should start creating the iOS app, along with unit tests, converting as much of the codebase as possible to shared code and/or iOS. When this work is complete:
